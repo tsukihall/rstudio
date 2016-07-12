@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "this is the date",
+    "created" : 1468362729675.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1638422162",
+    "id" : "BB0DDD24",
+    "lastKnownWriteTime" : 1468362760,
+    "last_content_update" : 1468362760888,
+    "path" : "C:/Users/tsukik/projects/rstudio/dates.Rmd",
+    "project_path" : "dates.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
